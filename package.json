@@ -1,0 +1,15 @@
+{
+  "name": "bot-example",
+  "version": "1.0.0",
+  "description": "botbuilder example.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yusuke.ishida",
+  "license": "MIT",
+  "dependencies": {
+    "botbuilder": "^3.0.1",
+    "restify": "^4.1.1"
+  }
+}
