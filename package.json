@@ -1,6 +1,6 @@
 {
   "name": "bot-example",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "botbuilder example.",
   "main": "app.js",
   "scripts": {
